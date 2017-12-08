@@ -26,7 +26,7 @@ DIRECTORY STRUCTURE
       vendor/             contains dependent 3rd-party packages
       views/              contains view files for the Web application
       web/                contains the entry script and Web resources
-
+This belongs to micah
 
 
 REQUIREMENTS
